@@ -1,6 +1,7 @@
 # 메인 페이지
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTBfMTkz/MDAxNTU3NDQ4MDUwMjg1.IbIRq3MhvzJwXiUJz-1nOSGWoajZgtDIyp3rMMUrH5Yg.ENXBAxsSLMtESd4nJSEphtWcpieN1p82CJ0sliqOoykg.PNG.younggu1545/1.PNG?type=w966"/>
 <ul>
+  <li>나의 담당 역할 마이페이지 기능 구현</li>
   <li>도서리뷰관리 웹 어플리케이션</li>
   <li>네이버 도서 검색 API를 사용하여 검색 시 도서 검색 결과 반환</li>
   <li>도서 별 리뷰 작성 및 평점 관리</li>
